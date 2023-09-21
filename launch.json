@@ -1,7 +1,4 @@
 {
-    // "Find out the location of streamlit:",
-    // "On macOS, use the 'which streamlit' command in the terminal.",
-    // "On Windows, use 'where streamlit' in Command Prompt or 'Get-Command streamlit' in PowerShell.",
     "version": "0.2.0",
     "configurations": [
         {
